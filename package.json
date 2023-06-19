@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Small extension to js-cookie to allow it to be used seemlessly in NextJS 13 app directory on either client or server components",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc"
   },
